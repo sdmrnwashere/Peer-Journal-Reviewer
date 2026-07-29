@@ -1,4 +1,4 @@
-# PDF peer reviewer
+# JPR: Journal Peer Reviewer
 
 Upload a manuscript, get back a referee report. The paper is chunked, embedded
 with a local sentence-transformer, indexed in FAISS, and reviewed by
